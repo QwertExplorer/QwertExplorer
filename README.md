@@ -1,6 +1,6 @@
 ### https://youtu.be/RMS0vjcnRT0?si=TKd49fO35JhUDrId&t=38
 
-**QwertExplorer/QwertExplorer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**QwertExplorer/QwertExplorer** is a ✨ [_special_](https://youtu.be/RMS0vjcnRT0?si=TKd49fO35JhUDrId&t=38) ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
